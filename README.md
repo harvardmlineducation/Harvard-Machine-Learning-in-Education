@@ -1,7 +1,7 @@
 # **Harvard Machine Learning in Education**
 ## **A community of graduate students exploring AI, Machine Learning and Learning analytics at Harvard**
 
-# **Calendar**
+# **Spring 2021 Calendar**
 ## Thursday 11th February, 2020: 
 **Is adaptive Learning a fad?**
 Slides (uploaded after event)
