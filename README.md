@@ -1,4 +1,3 @@
-# **Harvard Machine Learning in Education**
 ## **A community of graduate students exploring AI, Machine Learning and Learning analytics at Harvard**
 
 # **Spring 2021 Calendar**
